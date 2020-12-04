@@ -1,4 +1,4 @@
-﻿1.	1984 by George Orwell
+       ﻿1.	1984 by George Orwell
 	2.	A Christmas Carol by Charles Dickens
 	3.	A Portrait of the Artist as a Young Man by James Joyce
 	4.	A Tale of Two Cities by Charles Dickens
